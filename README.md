@@ -1,7 +1,8 @@
 # ELL881 Multi Armed Bandit Algorithms
 {: style="text-align: justify" }
+<p align='right'> 
 Multi-armed bandit (MAB): Concentration inequalities,  Stochastic MAB, UCB algorithm, asymptotic and minimax optimality, KL-UCB algorithm;
-Adversarial bandits, Exp3 and Exp3-IX algorithms; Contextual and linear bandits; regret analysis; lower bounds; best arm identifcation with high probability; Bayesian bandit- Thompson sampling, Gittin’s index; Restless bandits, Whittle’s index; combinatorial and nonstationary bandits
+Adversarial bandits, Exp3 and Exp3-IX algorithms; Contextual and linear bandits; regret analysis; lower bounds; best arm identifcation with high probability; Bayesian bandit- Thompson sampling, Gittin’s index; Restless bandits, Whittle’s index; combinatorial and nonstationary bandits </p>
 
 ## Implementation Details
 Python implementation of various Multi-armed bandit algorithms like Upper-confidence bound algorithm, Epsilon-greedy algorithm and Exp3 algorithm
