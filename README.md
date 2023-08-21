@@ -1,4 +1,4 @@
-# Multi Armed Bandit Algorithms
+# ELL881 Multi Armed Bandit Algorithms
 
 Python implementation of various Multi-armed bandit algorithms like Upper-confidence bound algorithm, Epsilon-greedy algorithm and Exp3 algorithm
 
