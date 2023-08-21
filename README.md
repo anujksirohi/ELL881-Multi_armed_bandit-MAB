@@ -1,8 +1,9 @@
 # ELL881 Multi Armed Bandit Algorithms
-
-Python implementation of various Multi-armed bandit algorithms like Upper-confidence bound algorithm, Epsilon-greedy algorithm and Exp3 algorithm
+Multi-armed bandit (MAB): Concentration inequalities,  Stochastic MAB, UCB algorithm, asymptotic and minimax optimality, KL-UCB algorithm;
+Adversarial bandits, Exp3 and Exp3-IX algorithms; Contextual and linear bandits; regret analysis; lower bounds; best arm identifcation with high probability; Bayesian bandit- Thompson sampling, Gittin’s index; Restless bandits, Whittle’s index; combinatorial and nonstationary bandits
 
 ## Implementation Details
+Python implementation of various Multi-armed bandit algorithms like Upper-confidence bound algorithm, Epsilon-greedy algorithm and Exp3 algorithm
 
 - Implemented all algorithms for 2-armed bandit.
 - Each algorithm has time horizon T as 10000.
